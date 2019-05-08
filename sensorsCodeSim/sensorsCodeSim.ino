@@ -45,15 +45,13 @@ void setup() {
   mySerial.println("AN IoT AIR QUALITY ANALYSIS AND ALERT SYSTEM:");
   mySerial.println(" ");
 
-//  pinMode(DHTPIN, INPUT);
+//  pinMode(DHTPIN, INPUT); default as INPUTS
 //  pinMode(PM25PIN, INPUT);
 //  pinMode(PM10PIN, INPUT);
-//  
 //  //pinMode(ledbuz, OUTPUT);
 //  //pinMode(greenLed, OUTPUT);
 //  pinMode(MQ9SENSOR, INPUT);
 //  pinMode(MQ135SENSOR, INPUT);
-//
 //  pinMode(MQ9SENSOR_D, INPUT);
 //  pinMode(MQ135SENSOR_D, INPUT);
   

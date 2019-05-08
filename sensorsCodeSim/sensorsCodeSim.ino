@@ -1,3 +1,8 @@
+//This is an Air Quality Monitoring Sytem with gas sensors for measuring PM2.5, PM10, CO and CO2 plus GPS for determining
+// the sensor node location.
+
+//It includes both the simulation code and the implementation code
+
 #include <SoftwareSerial.h>
 #include <DHT.h>
 #include <DHT_U.h>

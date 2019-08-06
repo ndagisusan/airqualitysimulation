@@ -1,4 +1,4 @@
-# FinalYearProject
+# Final Year Project
 Air Quality Analysis System
 
 It contains:

@@ -1,5 +1,5 @@
-# Final Year Project - Simulation
-Air Quality Analysis System
+# Air Quality Analysis System - Simulation
+(Undergraduate Final Year Project)
 
 It contains:
 1. The simulation for the hardware configuration on Proteus 
